@@ -1,4 +1,4 @@
-python -V
+mpython -V
 Python 3.11.4
 pip -V
 pip 23.1.2
